@@ -151,3 +151,4 @@ git push
 git push --set-upstream origin test
 clear
 ./insert_data.sh
+clear
