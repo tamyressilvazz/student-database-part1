@@ -165,3 +165,5 @@ clear
 clear
 \l
 ls --color=auto
+clear
+rm students_test.csv
