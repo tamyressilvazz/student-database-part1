@@ -155,3 +155,4 @@ clear
 cp students.csv students_test.csv
 ./insert_data.sh
 clear
+./insert_data.sh
