@@ -152,3 +152,4 @@ git push --set-upstream origin test
 clear
 ./insert_data.sh
 clear
+cp students.csv students_test.csv
