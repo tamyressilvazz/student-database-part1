@@ -162,3 +162,6 @@ clear
 ./insert_data.sh
 clear
 ./insert_data.sh
+clear
+\l
+ls --color=auto
