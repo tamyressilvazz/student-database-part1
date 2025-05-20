@@ -142,3 +142,7 @@ clear
 ./insert_data.sh
 ./insert_data.sh
 ./insert_data.sh
+clear
+git checkout -b test
+git remote set-url origin https://github.com/tamyressilvazz/student-database-part1.git
+git add .
