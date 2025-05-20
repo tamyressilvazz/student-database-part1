@@ -167,3 +167,4 @@ clear
 ls --color=auto
 clear
 rm students_test.csv
+rm courses_test.csv
